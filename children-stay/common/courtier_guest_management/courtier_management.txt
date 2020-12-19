@@ -73,7 +73,7 @@ courtier_management = {
 					this = scope:liege
 				}
 			}
-			add = -10
+			add = -100
 		}
 
 		###RELATION TO OTHER COURTIERS###
@@ -134,9 +134,9 @@ courtier_management = {
 					multiply = 0 #Children shouldn't try to leave on their own
 				}
 				if = {
-					limit = { is_close_family_of = scope:liege }
-					multiply = 0 # Close family shouldn't leave either
-				}	
+					limit = { is_child_of = scope:liege }
+					multiply = 0
+				}
 			}
 		}
 	}
