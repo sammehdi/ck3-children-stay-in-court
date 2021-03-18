@@ -4,6 +4,6 @@ tags={
 	"Balance"
 }
 name="Children Stay in Court"
-supported_version="1.2.2"
-path="C:/Users/samme/Documents/Paradox Interactive/Crusader Kings III/mod/children-stay"
+supported_version="1.3.0"
+path="C:/Users/samme/OneDrive - University of Southern California/Documents/Paradox Interactive/Crusader Kings III/mod/children-stay"
 remote_file_id="2325067877"
